@@ -1,10 +1,7 @@
 # 💫 About Me:
 ## About NexDam
-
 NexDam is an independent digital platform focused on providing modern tools and services powered by Artificial Intelligence.
-
 The goal is to build secure, scalable and intelligent software solutions that help individuals and businesses automate workflows, improve cybersecurity and simplify infrastructure management.
-
 It combines modern engineering, AI, cloud technologies and automation into a unified ecosystem.
 
 
@@ -30,4 +27,5 @@ It combines modern engineering, AI, cloud technologies and automation into a uni
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/nexdam) 
 
-  <br># License<br><br>Copyright © 2026 NexDam.<br><br>All rights reserved.
+ # License
+<br>Copyright © 2026 NexDam.<br><br>All rights reserved.
